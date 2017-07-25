@@ -13,9 +13,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>date
-date
-date</command>
+      <command>date</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers/>
